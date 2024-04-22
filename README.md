@@ -7,11 +7,17 @@ This homelab project is meant to establish experience on important IT skills suc
 ### Skills Learned
 - Building a logical diagram
 - Installing virtual machines
+- Brute force attacks
+- Telemetry detection and analysis
 
 ### Tools Used
-- Kali Linux and Atomic Red Team for creating brute force attacks on a target machine, creating telemetry for detection and analysis.
-- Draw.io for creating a logical network diagram of the overall project.
-- Virtual Box for the baseline platform to run all VMs including Kali linux, Windows Desktop, Windows Server, and Splunk (Ubuntu Server).
+- Kali Linux
+- Atomic Red Team 
+- Draw.io 
+- Virtual Box
+- Windows Desktop
+- Windows Server
+- Splunk (Ubuntu Server).
 
 ## Steps
 Network Diagram

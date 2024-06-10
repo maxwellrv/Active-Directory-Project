@@ -2,7 +2,7 @@
 
 ## Objective
 
-This homelab project is meant to establish experience on important IT skills such as installing, navigating and managing a directory enviornmnet from scratch.
+This homelab project is meant to establish experience on important IT and blue team skills such as installing, navigating and managing a directory enviornmnet from scratch.
 
 ### Skills Learned
 - Building a logical diagram
